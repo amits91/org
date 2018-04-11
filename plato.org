@@ -1,8 +1,0 @@
-* 1809 Projects
-** Power Model Support
-* VCLP Plato Integration
-** TODO Check Status of open phase 1 stars
-** Merge TD fixes to 1712
-* ZEBU Plato Integration
-** TODO Get status on ZEBU stars
-** TODO Check about configuration to stop PST processing
