@@ -1,0 +1,28 @@
+
+* 2018
+** 2018-03 March
+*** 2018-03-23 Friday
+**** DONE test todo                                                 :test:
+               this is just a test
+               Added: [2018-03-23 Fri 13:58]
+**** this is a test note  
+
+Added: [2018-03-23 Fri 14:14]
+**** TODO Review the Income Tax Return prepared                   :URGENT:
+DEADLINE: <2018-03-28 Wed>
+Added: [2018-03-23 Fri 14:23]
+***** Check about new tax to be paid and refunds
+***** What about long term gain and short term gain? 
+Long term gain has different tax calculations but its added with short term gain?
+***** Why is there a refund and also payment slips of taxes?
+***** TODO Get details about FD interest from India
+DEADLINE: <2018-03-26 Mon>
+***** Check with her about list of accounts to be disclosed as per FBAR
+***** Get details about payments to Sanjay Tax pro for next year
+***** Why is HSA showing employer contribution as full?
+***** HSA is taxable as per california tax, is that taken into account?
+*** 2018-03-26 Monday
+**** TODO Write abstract for DVCON-Europe                           :work:
+DEADLINE: <2018-04-11 Wed>
+
+Added: [2018-03-26 Mon 14:06]

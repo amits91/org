@@ -1,0 +1,9 @@
+
+* 2018
+** 2018-03 March
+*** 2018-03-22 Thursday
+**** [2018-03-22 Thu 22:42] - first time log in org capture	       :TIME:
+*** 2018-03-23 Friday
+**** [2018-03-23 Fri 10:56] - AXA Meeting			       :TIME:
+**** [2018-03-23 Fri 13:31] - understanding org capture		       :TIME:
+**** [2018-03-23 Fri 13:34] - Add details about projects	       :TIME:
